@@ -1,6 +1,4 @@
-# Limine C Template
-
-This repository will demonstrate how to set up a basic kernel in C using Limine.
+# ARCOS
 
 ## How to use this?
 
